@@ -1,0 +1,14 @@
+D:\Save\Projects\ws-2024\TargetSistemas-desafio\desafio-targetsistemas\desafio-target\desafio-target\bin\Debug\net8.0\desafio-target.exe
+D:\Save\Projects\ws-2024\TargetSistemas-desafio\desafio-targetsistemas\desafio-target\desafio-target\bin\Debug\net8.0\desafio-target.deps.json
+D:\Save\Projects\ws-2024\TargetSistemas-desafio\desafio-targetsistemas\desafio-target\desafio-target\bin\Debug\net8.0\desafio-target.runtimeconfig.json
+D:\Save\Projects\ws-2024\TargetSistemas-desafio\desafio-targetsistemas\desafio-target\desafio-target\bin\Debug\net8.0\desafio-target.dll
+D:\Save\Projects\ws-2024\TargetSistemas-desafio\desafio-targetsistemas\desafio-target\desafio-target\bin\Debug\net8.0\desafio-target.pdb
+D:\Save\Projects\ws-2024\TargetSistemas-desafio\desafio-targetsistemas\desafio-target\desafio-target\obj\Debug\net8.0\desafio-target.GeneratedMSBuildEditorConfig.editorconfig
+D:\Save\Projects\ws-2024\TargetSistemas-desafio\desafio-targetsistemas\desafio-target\desafio-target\obj\Debug\net8.0\desafio-target.AssemblyInfoInputs.cache
+D:\Save\Projects\ws-2024\TargetSistemas-desafio\desafio-targetsistemas\desafio-target\desafio-target\obj\Debug\net8.0\desafio-target.AssemblyInfo.cs
+D:\Save\Projects\ws-2024\TargetSistemas-desafio\desafio-targetsistemas\desafio-target\desafio-target\obj\Debug\net8.0\desafio-target.csproj.CoreCompileInputs.cache
+D:\Save\Projects\ws-2024\TargetSistemas-desafio\desafio-targetsistemas\desafio-target\desafio-target\obj\Debug\net8.0\desafio-target.dll
+D:\Save\Projects\ws-2024\TargetSistemas-desafio\desafio-targetsistemas\desafio-target\desafio-target\obj\Debug\net8.0\refint\desafio-target.dll
+D:\Save\Projects\ws-2024\TargetSistemas-desafio\desafio-targetsistemas\desafio-target\desafio-target\obj\Debug\net8.0\desafio-target.pdb
+D:\Save\Projects\ws-2024\TargetSistemas-desafio\desafio-targetsistemas\desafio-target\desafio-target\obj\Debug\net8.0\desafio-target.genruntimeconfig.cache
+D:\Save\Projects\ws-2024\TargetSistemas-desafio\desafio-targetsistemas\desafio-target\desafio-target\obj\Debug\net8.0\ref\desafio-target.dll
